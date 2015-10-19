@@ -12,7 +12,7 @@ if(name === 'will'){
 // and says "Goodbye will";
 // You must leave the bang in the conditional expression
 if (!false) {
-  console.log('Goodbye ' + );
+  console.log('Goodbye ' + name);
 }
 
 // Complete the if/else statement so that the console.log statement runs
