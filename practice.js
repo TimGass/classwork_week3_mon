@@ -19,7 +19,7 @@ if (!false) {
 // and says "You entered the else statement";
 // You must leave the bang in the conditional expression
 //
-if (2 != 3) {
+if (2 != 2) {
   console.log('Ooops!');
 } else {
   console.log('You entered the else statement');
